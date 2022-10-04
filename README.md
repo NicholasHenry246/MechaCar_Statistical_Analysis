@@ -37,20 +37,15 @@ Using your knowledge of R, design a statistical study to compare performance of 
 Follow the instructions below to complete Deliverable 4.
 
 ## Study Design: MechaCar vs Competition.
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating.
-In your description, address the following questions:
-What metric or metrics are you going to test?
-What is the null hypothesis or alternative hypothesis?
-What statistical test would you use to test the hypothesis? And why?
-What data is needed to run the statistical test?
-
 To compare MechaCar to the competition as study can be done to determine the durability of the brakes. the metrics to be tested would be:
-    * Maintenance Cost of brakes
-    * Miles traveled per brake service
-    * Time to completely stop depending on speed
-    * Distance to completely stop depending on speed
-    * Highway vs City brake life.
+
+    - Maintenance Cost of brakes
+    - Miles traveled per brake service
+    - Time to completely stop depending on speed
+    - Distance to completely stop depending on speed
+    - Highway vs City brake life.
 
 Data on the composition of the brakes can be used to determine how long they last on mecha cars vs the competition. The hypothesis could possibly be:
+
     H1: Brakes need to be changed every 10,000 miles.
     H2: Brakes need to be changed every 5,000 miles.
